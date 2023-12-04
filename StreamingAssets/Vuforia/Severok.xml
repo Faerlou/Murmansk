@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig>
-  <Tracking>
-    <ImageTarget name="medved" size="1.000000 1.416000" />
-    <ImageTarget name="fox" size="1.000000 1.413174" />
-    <ImageTarget name="cat" size="1.000000 1.413174" />
-  </Tracking>
-</QCARConfig>
