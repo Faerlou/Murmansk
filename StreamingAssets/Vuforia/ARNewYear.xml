@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="New6" size="1.000000 1.000000" />
+    <ImageTarget name="New5" size="1.000000 0.939086" />
+    <ImageTarget name="New4" size="1.000000 0.939086" />
+    <ImageTarget name="New3" size="1.000000 0.939086" />
+    <ImageTarget name="New2" size="1.000000 0.953608" />
+    <ImageTarget name="New1" size="1.000000 0.915842" />
+    <ImageTarget name="Afanaseva2" size="1.000000 0.625000" />
+    <ImageTarget name="Afanaseva1" size="1.000000 0.706771" />
+    <ImageTarget name="kiruhin2" size="1.000000 0.707089" />
+    <ImageTarget name="kiruhin1" size="1.000000 0.699333" />
+    <ImageTarget name="Krasovskaya2" size="1.000000 0.625000" />
+    <ImageTarget name="Krasovskaya1" size="1.000000 0.625000" />
+    <ImageTarget name="Kubishikin" size="1.000000 0.562500" />
+    <ImageTarget name="Kubishikin2" size="1.000000 0.562500" />
+    <ImageTarget name="Shevchuk" size="1.000000 0.625000" />
+    <ImageTarget name="kozhin3" size="1.000000 0.666500" />
+    <ImageTarget name="panov2" size="1.000000 0.640104" />
+    <ImageTarget name="panov" size="1.000000 0.750000" />
+    <ImageTarget name="Severinov" size="1.000000 0.562500" />
+    <ImageTarget name="Severinov1" size="1.000000 1.000000" />
+    <ImageTarget name="shevchuk2" size="1.000000 0.562500" />
+    <ImageTarget name="kozhin" size="1.000000 0.708108" />
+  </Tracking>
+</QCARConfig>
